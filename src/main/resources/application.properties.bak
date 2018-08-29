@@ -1,0 +1,14 @@
+server.port=10001
+
+
+spring.data.mongodb.uri=mongodb://1,2,3,4:27017/12
+
+#日志配置
+#默认情况下会记录ERROR-level， WARN-level和INFO-level消息
+#logging.level.root = WARN
+#logging.path=/www/log
+#logging.file.max-size=1024MB
+
+
+
+
